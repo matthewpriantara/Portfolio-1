@@ -1,20 +1,36 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Matthew's Terminal Portfolio
 
-# Run and deploy your AI Studio app
+Welcome to Matthew's Terminal Portfolio! This project showcases my skills, experiences, and projects in a terminal-style interface.
 
-This contains everything you need to run your app locally.
+## Features
+- Interactive terminal interface
+- Commands to explore personal information, skills, and projects
+- Switch to visual portfolio view
 
-View your app in AI Studio: https://ai.studio/apps/drive/1N2Yz3dOcvIL3IrkEL0dxZhJqxTe2RgkX
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-## Run Locally
+## Commands
+- `help`: View available commands
+- `clear`: Clear the terminal
+- `Personal Information`: View personal details
+- `Education`: View educational background
+- `Personal Skills`: View skills
+- `Organizational Experience`: View organizational experience
+- `Work Experience`: View work experience
+- `Project Highlights`: View project highlights
+- `View Full Portfolio`: Switch to visual portfolio view
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## License
+This project is licensed under the MIT License.
