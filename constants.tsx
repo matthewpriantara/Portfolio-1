@@ -97,6 +97,11 @@ export const PORTFOLIO_DATA: PortfolioData = {
       title: "LIGA TRPL",
       period: "2025",
       description: "I am the Coordinator of Public Relations and Publication for this annual event that fosters solidarity, creativity, and collaboration through sports, art, and IT competitions."
+    },
+    {
+      title: "Google Developer Group on Campus UGM",
+      period: "2025 - Present",
+      description: "As a member of the Google Developer Group on Campus UGM, I serve in the Hipster role, focusing on UI/UX design. My responsibilities include designing user-friendly interfaces, creating wireframes and prototypes, and ensuring an optimal user experience for various projects and initiatives. I collaborate with cross-functional teams to deliver innovative and impactful solutions that align with the group's goals."
     }
   ],
   
